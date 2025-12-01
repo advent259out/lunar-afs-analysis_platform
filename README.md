@@ -22,7 +22,7 @@ Added CSV loader for HALO truth tracks and Chebyshev ephemeris handling (afs\_si
 
 New CLI options: -halo, -cheb <file>, -chebgen <out>, -chebdt, -chebN let you ingest truth trajectories (propogated by HALO), propagate via Chebyshev segments, or generate new Chebyshev tables for PocketSDR.
 
-2\. Enhanced CLI \& Logging
+2. Enhanced CLI \& Logging
 
 
 
@@ -30,7 +30,7 @@ Expanded afs\_sim usage (afs\_sim.c (lines 1314-1505)): receiver motion (-vel, -
 
 Truth samples and pseudorange geometry now stream to optional logs (afs\_sim.c (lines 1794-2060)).
 
-3\. Channel Emulation \& Multipath
+3. Channel Emulation \& Multipath
 
 
 
@@ -60,5 +60,5 @@ Generated files such as truth\_track\*.csv, sim\_rng.csv, cheb\*.txt, and per-ru
 
 
 
-**2.      Support for long-time coherent integration for pilot channel**
+2. Support for long-time coherent integration for pilot channel**
 
