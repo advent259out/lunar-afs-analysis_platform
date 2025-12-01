@@ -6,7 +6,7 @@ The platform is modified based on  https://github.com/osqzss/PocketSDR-AFS and h
 
 
 
-The code for the analysis in the thesis is in ~\\PocketSDR-AFS-main\\PocketSDR-AFS-main\\python.
+The code for the analysis in the thesis is in ~\\PocketSDR-AFS-main\\PocketSDR-AFS-main\\python\\thesis analysis.
 
 
 
